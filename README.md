@@ -38,11 +38,13 @@ _IDE de programacion para java, Eclipse_
 
 _Pentaho - version sugerida 8.1_
 
+_Prime Faces_
+
 * [WildFly](https://www.wildfly.org/downloads/) - Servidor
 * [Postgres](https://www.postgresql.org/download/) - Base de datos
 * [Eclipse](https://www.eclipse.org/downloads/) - Usado para la programacion
 * [Pentaho](https://sourceforge.net/projects/pentaho/) - Extraccion de datos
-
+* [Prime Faces](https://www.primefaces.org/downloads/) - Librería de componentes visuales open source
 
 ## Wiki 📖
 
@@ -62,7 +64,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia de Copyright.
+Este proyecto está bajo la Licencia (Eclipse libre) - mira el archivo LICENSE.md para detalles
 
 ## Agradecimientos 📄
 
