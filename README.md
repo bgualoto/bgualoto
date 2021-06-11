@@ -1,5 +1,4 @@
-# PROYECTO INTEGRADOR
-# HeartAttack
+# PROYECTO INTEGRADOR - HeartAttack
 Software de conjunto de datos de análisis y predicción de ataques cardiacos.
 
 ![2](https://user-images.githubusercontent.com/85709548/121602453-ef693580-ca0c-11eb-8358-4322ff7bb4d3.jpg)
