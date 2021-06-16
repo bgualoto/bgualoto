@@ -1,4 +1,4 @@
-# PROYECTO INTEGRADOR - HeartAttack
+# HeartAttack
 Software de conjunto de datos de análisis y predicción de ataques cardiacos.
 
 ![2](https://user-images.githubusercontent.com/85709548/121602453-ef693580-ca0c-11eb-8358-4322ff7bb4d3.jpg)
@@ -9,6 +9,8 @@ Software de conjunto de datos de análisis y predicción de ataques cardiacos.
 _Maquina fisica o virtual_
 
 _Conexión a internet_
+
+_Navegador Web_
 
 
 ## Instalación 🔧
@@ -52,7 +54,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Version 0.1.0
 
 ## Autores ✒️
 
